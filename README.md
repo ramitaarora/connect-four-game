@@ -1,1 +1,1 @@
-# tempname-game
+# Connect Four Game
